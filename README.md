@@ -1,3 +1,3 @@
 # PvZ-like-Prototype
 A Plants vs Zombies themed Prototype, contains a single level with varied enemies and turrets.
-There, here's a readme!!!
+The executable build is located inside the Builds folder, enjoy!
